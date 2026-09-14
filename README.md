@@ -1,61 +1,76 @@
 <div align="center">
 
-# ⟡ PREMARAM KARTHIK
+# ◈ PREMARAM KARTHIK
 
-### `AI ENGINEER` · `SYSTEM BUILDER` · `PROBLEM SOLVER`
+### `AI Engineer` · `Full-Stack Developer` · `Builder`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:0b3b4a,100:00d4aa&height=220&section=header&text=BUILD%20BEYOND%20THE%20OBVIOUS&fontColor=eafff9&fontSize=30&fontAlignY=38&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:003b46,100:00d4aa&height=190&section=header&text=BUILD%20BEYOND%20THE%20OBVIOUS&fontColor=ffffff&fontSize=30&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-**AI · Computer Vision · Backend · Infrastructure**
+**I build intelligent systems that connect models, software and infrastructure.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-07111f?style=for-the-badge&logo=github&logoColor=00d4aa)](https://github.com/Premaramkarthik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-07111f?style=for-the-badge&logo=googlechrome&logoColor=00d4aa)](https://premaramkarthik.github.io/portfolio/)
+[ GitHub ](https://github.com/Premaramkarthik) · [ Portfolio ](https://premaramkarthik.github.io/portfolio/)
 
 </div>
 
 ---
 
-## ◈ THE BUILDER
-
-I build production-oriented systems around **AI/ML, computer vision, NLP, automation, distributed systems, and backend infrastructure**.
-
-I like turning difficult technical problems into systems that are **fast, observable, maintainable, and useful**.
+## ◈ ENGINEERING PROFILE
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│  SIGNAL                                                    │
-│  ─────────────────────────────────────────────────────────  │
-│  AI / ML              ████████████████████  █  95          │
-│  Computer Vision      ███████████████████░  █  90          │
-│  Backend Systems      ██████████████████░░  █  85          │
-│  Infrastructure       ████████████████░░░░  █  80          │
-│  Robotics             ███████████████░░░░░  █  75          │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────┐
+│  ROLE        AI Engineer / Full-Stack Developer             │
+│  CORE        AI · Computer Vision · Backend · Systems       │
+│  LANGUAGE    Python                                         │
+│  MINDSET     Build → Measure → Break → Improve              │
+│  INTERESTS   Agents · Inference · Automation · Robotics     │
+└────────────────────────────────────────────────────────────┘
 ```
 
-## ⌁ CURRENT SYSTEMS
-
-- **AI Engineering** — LLM applications, RAG, agents and model-powered products
-- **Computer Vision** — image understanding, classification and real-time inference
-- **Backend Engineering** — APIs, services, queues and scalable architectures
-- **Infrastructure** — containers, Kubernetes, observability and self-hosting
-- **Robotics** — ROS and intelligent machine systems
+I work across the stack — from **model experimentation and computer vision** to **APIs, infrastructure, observability and deployment**.
 
 ---
 
-## ◇ STACK
+## ◈ CURRENT SYSTEMS
 
-### Language
+| Area | What I'm building |
+|---|---|
+| **AI Agents** | LLM applications, RAG pipelines and tool-using agents |
+| **Computer Vision** | Real-time detection, classification and image pipelines |
+| **Backend** | FastAPI services, async workflows and production APIs |
+| **Infrastructure** | Docker, Kubernetes, observability and self-hosting |
+| **Robotics** | ROS-based systems and intelligent automation |
 
-![Python](https://img.shields.io/badge/Python-07111f?style=for-the-badge&logo=python&logoColor=00d4aa)
+---
 
-### AI / Vision
+## ◈ SELECTED MISSIONS
+
+### `01` — Intelligent Applications
+Building practical AI systems rather than isolated model demos: retrieval, agents, inference APIs and automation.
+
+### `02` — Vision Systems
+Working with image understanding, object detection, classification and real-time computer-vision pipelines.
+
+### `03` — Production Engineering
+Turning prototypes into services with APIs, databases, containers, monitoring and reliable deployment workflows.
+
+### `04` — Open Source
+Studying, integrating and improving open-source infrastructure to build capable self-hosted systems.
+
+---
+
+## ◈ ENGINEERING STACK
+
+**Language**
+
+![Python](https://img.shields.io/badge/Python-07111f?style=flat-square&logo=python&logoColor=00d4aa)
+
+**AI / Vision**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-07111f?style=flat-square&logo=pytorch&logoColor=00d4aa)
 ![OpenCV](https://img.shields.io/badge/OpenCV-07111f?style=flat-square&logo=opencv&logoColor=00d4aa)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-07111f?style=flat-square&logo=huggingface&logoColor=00d4aa)
 
-### Backend / Infrastructure
+**Backend / Infrastructure**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-07111f?style=flat-square&logo=fastapi&logoColor=00d4aa)
 ![Docker](https://img.shields.io/badge/Docker-07111f?style=flat-square&logo=docker&logoColor=00d4aa)
@@ -65,61 +80,46 @@ I like turning difficult technical problems into systems that are **fast, observ
 
 ---
 
-## ✦ SELECTED MISSIONS
+## ◈ BUILD LOG
 
-| Project | What I built |
-|---|---|
-| **Hybrid Recommendation System** | Hybrid collaborative + content-based recommendation pipeline with multilingual sentiment analysis and LightFM. |
-| **Pest Classification** | Deep-learning computer-vision pipeline comparing ResNet, MobileNetV2, EfficientNet and YOLOv8, with a Streamlit interface. |
-| **Hate Speech Detection** | NLP classification pipeline using TF-IDF n-grams, model tuning and detailed error analysis. |
-| **Crop Recommendation** | ML system comparing multiple classifiers to recommend crops from environmental conditions. |
-| **HealthPrognosis** | Multi-condition prediction system exposed through Flask REST APIs. |
+```text
+[ ACTIVE ]  AI agents & LLM workflows
+[ ACTIVE ]  Real-time computer vision
+[ ACTIVE ]  Scalable backend systems
+[ ACTIVE ]  Self-hosted infrastructure
+[ ACTIVE ]  Robotics & automation
+```
 
----
+### Engineering principles
 
-## ⌘ MISSION CONTROL
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Premaramkarthik&theme=github_dark" width="100%" alt="GitHub profile activity"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Premaramkarthik&theme=dark&hide_border=true&background=07111f&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=9fe7d3&dates=7fa99e" width="100%" alt="GitHub contribution streak"/>
-
-</div>
-
-> **Why the stats changed:** the old stats block depended on multiple third-party endpoints and included a top-languages card. This version uses a profile-summary card plus a dedicated streak endpoint, keeping the visual cleaner and avoiding the broken top-languages image.
+> **Make it work.**
+>
+> **Make it observable.**
+>
+> **Make it scale.**
+>
+> **Then make it simple.**
 
 ---
 
-## ⟣ BUILDING NOW
+## ◈ WHAT'S NEXT
 
 ```yaml
-focus:
-  - AI agents
-  - computer vision
-  - real-time inference
-  - scalable backend systems
-  - self-hosted infrastructure
-  - robotics
-
-principles:
-  - measure before optimizing
-  - automate the boring parts
-  - design for failure
-  - keep systems observable
-  - ship and iterate
+01: improve   -> model inference + latency
+02: automate  -> repetitive engineering workflows
+03: scale     -> distributed AI services
+04: explore   -> robotics + embodied intelligence
+05: ship      -> useful systems people can actually use
 ```
 
 ---
 
 <div align="center">
 
-### `MAKE IT WORK → MAKE IT FAST → MAKE IT LAST`
+### `SYSTEM STATUS: BUILDING`
 
-**「コードで世界を作る」**
+**Code is the medium. Systems are the craft.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0b3b4a,100:07111f&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:003b46,100:07111f&height=110&section=footer" width="100%"/>
 
 </div>
