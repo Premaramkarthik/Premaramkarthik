@@ -199,7 +199,7 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="210" alt="Roronoa Zoro" />
+<img src="https://static.wikia.nocookie.net/glad-you-came/images/a/a2/Zoro.png/revision/latest/scale-to-width-down/1200?cb=20230710081928" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
 
