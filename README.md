@@ -44,7 +44,6 @@ My voyage moves through:
 - ⚙️ **Backend Systems** — APIs, async workflows & distributed services
 - 🚢 **Infrastructure** — Docker, Kubernetes, observability & self-hosting
 - 🤖 **Robotics** — ROS & intelligent automation
-- 🧩 **Open Source** — learn, integrate, improve, ship
 
 **Current objective:** build useful systems that survive outside the notebook.
 
@@ -126,7 +125,6 @@ Working across the **AI, real-time voice and backend layers** of production-orie
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0B2239?style=flat-square&logo=fastapi&logoColor=00D4AA)
 ![Docker](https://img.shields.io/badge/Docker-0B2239?style=flat-square&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0B2239?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2239?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Redis](https://img.shields.io/badge/Redis-0B2239?style=flat-square&logo=redis&logoColor=DC382D)
 
