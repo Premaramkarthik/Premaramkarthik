@@ -180,7 +180,7 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="210" alt="Roronoa Zoro" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
 
@@ -201,34 +201,39 @@ Build with the mindset of a swordsman: **clear direction, daily practice, and no
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=720&lines=BUILDING+AI+SYSTEMS;EXPLORING+COMPUTER+VISION;ENGINEERING+RELIABLE+BACKENDS;AUTOMATING+THE+BORING+WORK;LEARNING+SOMETHING+NEW+EVERY+DAY" alt="Animated current missions" />
+### **THE VOYAGE IS ALWAYS MOVING.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=21&duration=2800&pause=850&color=00C2A8&center=true&vCenter=true&width=760&lines=TRAINING+AI+AGENTS;BUILDING+VISION+SYSTEMS;ENGINEERING+BACKEND+SYSTEMS;RUNNING+SELF-HOSTED+INFRA;EXPLORING+ROBOTICS;SHIPPING+REAL+SOFTWARE" alt="Animated engineering voyage" />
 
 </div>
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🧠 NOW
-**AI & Intelligent Systems**
+### 🧠 CURRENTLY
 
-Agents · RAG · LLM workflows
+**Teaching machines to reason**
 
-</td>
-<td width="33%" align="center">
-
-### ⚙️ BUILDING
-**Systems That Scale**
-
-APIs · Inference · Infrastructure
+AI agents · RAG · LLM applications · inference
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-### 🔭 EXPLORING
-**Beyond the Notebook**
+### ⚙️ AT THE HELM
 
-Vision · Robotics · Open Source
+**Making systems dependable**
+
+Fast APIs · async workflows · databases · containers
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 🔭 ON THE HORIZON
+
+**Going beyond software screens**
+
+Computer vision · robotics · open source
 
 </td>
 </tr>
@@ -236,36 +241,40 @@ Vision · Robotics · Open Source
 
 <div align="center">
 
-`DREAM` → `DESIGN` → `BUILD` → `BREAK` → `LEARN` → `REBUILD` → `SHIP`
+**MY BUILD LOOP**
+
+`IDEA` → `PROTOTYPE` → `TEST` → `BREAK` → `LEARN` → `HARDEN` → `SHIP`
+
+> *The first version gets you moving. The next version gets you somewhere.*
 
 </div>
 
 ---
 
-## 🧭 THE NEXT ADVENTURES
+## 🧭 NEXT PORTS OF CALL
 
 <div align="center">
 
-### **No fixed map. Just the next island worth reaching.**
+### **THE MAP ISN'T FINISHED YET.**
+
+*Every project opens another route.*
 
 </div>
 
-| 🌴 DESTINATION | 🧭 WHAT I'M CHASING | ⚡ STATUS |
+| 🏴‍☠️ DESTINATION | 🎯 MISSION | 🗺️ STATE |
 |:---|:---|:---:|
-| **AI Agents** | More capable autonomous workflows | `ACTIVE` |
-| **Computer Vision** | Faster, smarter real-time inference | `ACTIVE` |
-| **Self-Hosted Systems** | Reliable infrastructure I fully control | `BUILDING` |
-| **Open Source** | Build, contribute, and give back | `EXPLORING` |
-| **Robotics** | Bring intelligence into the physical world | `EXPLORING` |
-| **The Next Big Idea** | Turn an ambitious idea into something real | `???` |
-
-<br>
+| **AI Agents** | Turn complex tasks into useful autonomous workflows | ⚡ ACTIVE |
+| **Computer Vision** | Push real-time perception and inference further | ⚡ ACTIVE |
+| **Self-Hosted Systems** | Build infrastructure I can operate end-to-end | 🔧 BUILDING |
+| **Open Source** | Create useful things and contribute upstream | 🧭 EXPLORING |
+| **Robotics** | Connect intelligence with the physical world | 🧭 EXPLORING |
+| **Next Big Build** | Take one ambitious idea from zero to shipped | ❔ UNKNOWN |
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=90&section=header" width="100%"/>
 
-**THE ROUTE CHANGES. THE DREAM DOESN'T.**
+**NO PERFECT ROUTE. JUST THE NEXT STEP.**
 
 </div>
 
