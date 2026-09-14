@@ -77,7 +77,7 @@ Working across the **AI, real-time voice and backend layers** of production-orie
 - Developed the **GES voice-agent workflow and backend**, including validation, REST APIs, PostgreSQL/JSONB persistence, Redis + ARQ background workers, retries, deduplication and status tracking.
 - Optimized prompts, agent instructions and execution flows to improve reliability and reduce unnecessary LLM processing.
 
-**Core focus:** `Voice AI` · `Pipecat` · `LLMs` · `RAG` · `STT/TTS` · `WebRTC` · `FastAPI` · `PostgreSQL` · `Redis` · `ARQ`
+**Core skills:** `Python` · `LLMs` · `RAG` · `Voice AI` · `Pipecat` · `LiveKit` · `VAPI` · `STT/TTS` · `WebRTC` · `FastAPI` · `PostgreSQL` · `Redis` · `ARQ` · `OpenVidu` · `mediasoup` · `Playwright` · `Docker`
 
 ---
 
@@ -118,6 +118,7 @@ Working across the **AI, real-time voice and backend layers** of production-orie
 ### 🍈 AI / COMPUTER VISION
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-0B2239?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B2239?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0B2239?style=flat-square&logo=opencv&logoColor=5C9BD5)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-0B2239?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
