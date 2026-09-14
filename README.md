@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="180" alt="Monkey D. Luffy" />
+<a href="https://premaramkarthik.github.io/portfolio/">
+<img src="https://www.xtrafondos.com/wallpapers/luffy-gear-5-saltando-con-las-nubes-de-fondo-14092.jpg" width="100%" alt="Monkey D. Luffy Gear 5" />
+</a>
 
 # ☠️ PREMARAM KARTHIK
 
 ### **AI ENGINEER · BUILDER · EXPLORER**
 
-> ### 🌊 *Set sail. Build boldly. Never stop exploring.*
+> ### 🌊 **Dream bigger. Build boldly. Keep sailing.**
 
 <a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️%20PORTFOLIO-D9A441?style=for-the-badge&labelColor=07111F" /></a>
 <a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓%20GITHUB-00C2A8?style=for-the-badge&labelColor=07111F" /></a>
@@ -19,7 +21,7 @@
 
 ## 🏴‍☠️ WELCOME TO MY GRAND LINE
 
-**I build intelligent systems, chase difficult problems, and turn ideas into things that actually ship.**
+**I build intelligent systems, chase difficult problems, and turn ideas into software that actually ships.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=110&section=header" width="100%"/>
 
@@ -31,9 +33,9 @@
 <tr>
 <td width="62%" valign="top">
 
-### 👒 Who am I?
+### 👒 WHO AM I?
 
-I'm **Premaram Karthik**, an AI engineer and full-stack builder focused on turning ambitious ideas into reliable software.
+I'm **Premaram Karthik**, an AI engineer and builder focused on turning ambitious ideas into reliable software.
 
 My voyage moves through:
 
@@ -49,9 +51,11 @@ My voyage moves through:
 </td>
 <td width="38%" align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="85%" alt="Luffy from One Piece anime" />
+<img src="https://www.xtrafondos.com/wallpapers/luffy-gear-5-saltando-con-las-nubes-de-fondo-14092.jpg" width="100%" alt="Luffy Gear 5" />
 
 ### `THE DREAM NEVER ENDS.`
+
+> **Dream it. Build it. Set sail.**
 
 </td>
 </tr>
@@ -176,13 +180,32 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="150" alt="Roronoa Zoro" />
+<img src="https://images.ciatr.jp/2024/06/w_1000/P17SUgJLgkPO9SNMSfLdZ5umFV1RRXMBELqJW0rI.jpg" width="100%" alt="Straw Hat Pirates on Egghead Island" />
 
-**BUILD WITH THE DETERMINATION OF ZORO.**
-
-> *No matter how difficult the route becomes, keep moving toward the destination.*
+### **DIFFERENT DREAMS. SAME DIRECTION.**
 
 </div>
+
+<table>
+<tr>
+<td width="28%" align="center" valign="middle">
+
+<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="150" alt="Roronoa Zoro" />
+
+</td>
+<td width="72%" valign="middle">
+
+### ⚔️ ZORO'S RULE
+
+> **When the route gets difficult, keep moving toward the destination.**
+
+**Focus · Discipline · Consistency**
+
+Build like Zoro trains: **one goal, repeated effort, no excuses.**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -231,9 +254,11 @@ build_cycle:
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="140" alt="Monkey D. Luffy" />
+<img src="https://www.xtrafondos.com/wallpapers/luffy-gear-5-saltando-con-las-nubes-de-fondo-14092.jpg" width="100%" alt="Luffy Gear 5 sky" />
 
 ### **BUILD. EXPLORE. LEARN. REPEAT.**
+
+> **Same ocean. More ideas. Higher dreams.**
 
 If you're building something ambitious, let's collaborate.
 
@@ -248,4 +273,4 @@ If you're building something ambitious, let's collaborate.
 
 ---
 
-<sub>One Piece is a fan-inspired visual theme. Character artwork is sourced from the One Piece Wiki/Fandom and remains the property of its respective copyright holders. The profile uses remote image embeds rather than claiming ownership of the artwork.</sub>
+<sub>One Piece is a fan-inspired visual theme. Character and promotional artwork remains the property of its respective copyright holders. Images are embedded from their original online sources.</sub>
