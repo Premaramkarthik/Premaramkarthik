@@ -180,26 +180,28 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-### **DIFFERENT DREAMS. SAME DIRECTION.**
+<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="220" alt="Roronoa Zoro" />
+
+### **THE SWORDSMAN'S WAY**
 
 </div>
 
 <table>
 <tr>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="150" alt="Roronoa Zoro" />
-
-</td>
 <td width="72%" valign="middle">
 
 ### ⚔️ ZORO'S RULE
 
-> **When the route gets difficult, keep moving toward the destination.**
+> **Choose your destination. Sharpen your skill. Keep moving forward.**
 
-**Focus · Discipline · Consistency**
+**Focus · Discipline · Resolve**
 
-Build like Zoro trains: **one goal, repeated effort, no excuses.**
+Build with Zoro's mindset: **one clear goal, relentless practice, and the will to keep going.**
+
+</td>
+<td width="28%" align="center" valign="middle">
+
+<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="150" alt="Roronoa Zoro" />
 
 </td>
 </tr>
