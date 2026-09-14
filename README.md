@@ -84,60 +84,15 @@ Working across the **AI, real-time voice and backend layers** of production-orie
 
 ## ☠️ THE STRAW HAT CODE
 
-<div align="center">
-
-### **THE PRINCIPLES BEHIND THE BUILD**
-
 <table>
 <tr>
-<td width="20%" align="center" valign="top">
-
-### 🏴‍☠️
-**DREAM**
-
-Think beyond the obvious.
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### ⚔️
-**DISCIPLINE**
-
-Keep sharpening the craft.
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 🧭
-**EXPLORE**
-
-Follow curiosity into new waters.
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### ⚙️
-**BUILD**
-
-Turn ideas into working systems.
-
-</td>
-<td width="20%" align="center" valign="top">
-
-### 🌊
-**SAIL**
-
-Keep moving, keep learning.
-
-</td>
+<td align="center" width="20%"><h3>🏴‍☠️</h3><b>DREAM</b><br><sub>Think beyond the obvious.</sub></td>
+<td align="center" width="20%"><h3>⚔️</h3><b>DISCIPLINE</b><br><sub>Keep sharpening the craft.</sub></td>
+<td align="center" width="20%"><h3>🧭</h3><b>EXPLORE</b><br><sub>Follow curiosity into new waters.</sub></td>
+<td align="center" width="20%"><h3>⚙️</h3><b>BUILD</b><br><sub>Turn ideas into working systems.</sub></td>
+<td align="center" width="20%"><h3>🌊</h3><b>SAIL</b><br><sub>Keep moving, keep learning.</sub></td>
 </tr>
 </table>
-
-<br>
-
-**DREAM BIG · BUILD DAILY · EXPLORE DEEPLY · KEEP MOVING**
-
-</div>
 
 ---
 
