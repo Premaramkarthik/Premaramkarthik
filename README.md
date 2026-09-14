@@ -63,6 +63,25 @@ My voyage moves through:
 
 ---
 
+## 🚀 CURRENT VOYAGE — PROFESSIONAL EXPERIENCE
+
+### **AI / Voice AI Engineering**
+
+Working across the **AI, real-time voice and backend layers** of production-oriented voice applications.
+
+- Built and integrated **Myuri AI voice agents** covering RAG, knowledge bases, prompt engineering, tool calling, workflow orchestration, validation, transcripts and APIs.
+- Developed custom **Pipecat voice pipelines** connecting **STT → LLM/RAG → Tools/Workflow → TTS** with real-time communication.
+- Worked on **LiveKit/WebRTC, OpenVidu and mediasoup**, voice latency analysis, background audio, noise handling and end-call behavior.
+- Delivered **15+ enterprise Voice AI POCs** across clients including First Advantage, IRS, Dodla, KGPCo, Valeris, GES, Infotech Ignite and Harley Davidson.
+- Contributed to delivery of **100+ static voice agents** and built reusable patterns for scalable agent development.
+- Automated voice-agent creation and configuration through the **Mills provider**, including metadata and knowledge-base configuration.
+- Developed the **GES voice-agent workflow and backend**, including validation, REST APIs, PostgreSQL/JSONB persistence, Redis + ARQ background workers, retries, deduplication and status tracking.
+- Optimized prompts, agent instructions and execution flows to improve reliability and reduce unnecessary LLM processing.
+
+**Core focus:** `Voice AI` · `Pipecat` · `LLMs` · `RAG` · `STT/TTS` · `WebRTC` · `FastAPI` · `PostgreSQL` · `Redis` · `ARQ`
+
+---
+
 ## ☠️ THE STRAW HAT CODE
 
 <table>
@@ -180,7 +199,8 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://wallpapers.com/images/hd/pfp-pictures-t4psr7nnowpb3760.jpg" width="210" alt="Roronoa Zoro" />
+<img src="https://glad-you-came.fandom.com/wiki/Roronoa_Zoro" width="1" height="1" alt="" />
+<img src="https://static.wikia.nocookie.net/glad-you-came/images/a/a2/Zoro.png/revision/latest/scale-to-width-down/1200?cb=20230710081928" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
 
