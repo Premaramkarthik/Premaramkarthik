@@ -1,51 +1,57 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Straw_Hats_Pirates_Jolly_Roger.svg" width="90" alt="Straw Hat Pirates Jolly Roger" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="180" alt="Monkey D. Luffy" />
 
 # ☠️ PREMARAM KARTHIK
 
-### `AI ENGINEER` · `BUILDER` · `EXPLORER`
+### **AI ENGINEER · BUILDER · EXPLORER**
 
-**Setting sail through AI, computer vision, backend systems and open source.**
+> ### 🌊 *Set sail. Build boldly. Never stop exploring.*
 
-<a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️_VIEW_PORTFOLIO-d8a657?style=for-the-badge&labelColor=07111f&color=d8a657" /></a>
-<a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓_GITHUB-07111f?style=for-the-badge&labelColor=07111f&color=00d4aa" /></a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,45:003b5c,75:007f86,100:d8a657&height=130&section=header&animation=fadeIn" width="100%"/>
-
-> **“A man's dream will never die.”**
->
-> *— One Piece*
+<a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️%20PORTFOLIO-D9A441?style=for-the-badge&labelColor=07111F" /></a>
+<a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓%20GITHUB-00C2A8?style=for-the-badge&labelColor=07111F" /></a>
 
 </div>
 
 ---
 
-## 🏴‍☠️ THE GRAND LINE
+<div align="center">
+
+## 🏴‍☠️ WELCOME TO MY GRAND LINE
+
+**I build intelligent systems, chase difficult problems, and turn ideas into things that actually ship.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=110&section=header" width="100%"/>
+
+</div>
+
+## ⚓ CAPTAIN'S LOG
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### ⚓ Captain's Log
+### 👒 Who am I?
 
-I build **production-oriented software** around AI/ML, computer vision, NLP, automation, APIs and scalable infrastructure.
+I'm **Premaram Karthik**, an AI engineer and full-stack builder focused on turning ambitious ideas into reliable software.
 
-My goal is simple: **turn ambitious ideas into systems that actually work.**
+My voyage moves through:
 
-- 🧠 **AI** — agents, LLM applications, RAG & inference
-- 👁️ **Vision** — real-time CV, detection & image understanding
-- ⚙️ **Systems** — APIs, distributed services & observability
-- 🚀 **Infrastructure** — Docker, Kubernetes & self-hosting
-- 🤖 **Robotics** — ROS and intelligent machines
-- 🧩 **Open Source** — build, improve, ship
+- 🧠 **AI / ML** — agents, LLM applications, RAG & inference
+- 👁️ **Computer Vision** — detection, classification & real-time pipelines
+- ⚙️ **Backend Systems** — APIs, async workflows & distributed services
+- 🚢 **Infrastructure** — Docker, Kubernetes, observability & self-hosting
+- 🤖 **Robotics** — ROS & intelligent automation
+- 🧩 **Open Source** — learn, integrate, improve, ship
+
+**Current objective:** build useful systems that survive outside the notebook.
 
 </td>
-<td width="42%" align="center">
+<td width="38%" align="center">
 
-<img src="https://live.staticflickr.com/7125/7019311929_fe3fd7cd2b_o.jpg" width="90%" alt="Monkey D. Luffy cosplay" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="85%" alt="Luffy from One Piece anime" />
 
-**THE ADVENTURE NEVER ENDS.**
+### `THE DREAM NEVER ENDS.`
 
 </td>
 </tr>
@@ -53,15 +59,15 @@ My goal is simple: **turn ambitious ideas into systems that actually work.**
 
 ---
 
-## ☠️ THE CREW CODE
+## ☠️ THE STRAW HAT CODE
 
 <table>
 <tr>
-<td align="center" width="20%">🏴‍☠️<br><b>DREAM</b><br><sub>Build something meaningful</sub></td>
-<td align="center" width="20%">⚔️<br><b>DISCIPLINE</b><br><sub>Show up every day</sub></td>
-<td align="center" width="20%">🧭<br><b>EXPLORE</b><br><sub>Learn without limits</sub></td>
-<td align="center" width="20%">🍖<br><b>BUILD</b><br><sub>Turn ideas into products</sub></td>
-<td align="center" width="20%">☀️<br><b>SAIL</b><br><sub>Keep moving forward</sub></td>
+<td align="center" width="20%"><h3>🏴‍☠️</h3><b>DREAM</b><br><sub>Think bigger.</sub></td>
+<td align="center" width="20%"><h3>⚔️</h3><b>DISCIPLINE</b><br><sub>Show up daily.</sub></td>
+<td align="center" width="20%"><h3>🧭</h3><b>EXPLORE</b><br><sub>Stay curious.</sub></td>
+<td align="center" width="20%"><h3>⚙️</h3><b>BUILD</b><br><sub>Make it real.</sub></td>
+<td align="center" width="20%"><h3>🌊</h3><b>SAIL</b><br><sub>Keep moving.</sub></td>
 </tr>
 </table>
 
@@ -71,11 +77,11 @@ My goal is simple: **turn ambitious ideas into systems that actually work.**
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ead7a2,100:d8a657&height=90&text=WANTED%20%7C%20PREMARAM%20KARTHIK&fontColor=18202b&fontSize=28&fontAlignY=55" width="90%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ead7a2,100:d9a441&height=100&text=WANTED%20%7C%20PREMARAM%20KARTHIK&fontColor=18202b&fontSize=27&fontAlignY=55" width="92%"/>
 
 ### `AI ENGINEER` · `FULL-STACK BUILDER` · `SYSTEMS EXPLORER`
 
-**Bounty:** ∞ ideas to ship
+**BOUNTY:** ∞ ideas waiting to become software
 
 </div>
 
@@ -83,23 +89,23 @@ My goal is simple: **turn ambitious ideas into systems that actually work.**
 
 ## 🗺️ NAVIGATOR'S MAP — TECH STACK
 
-### 🐍 Language
+### 🐍 ONE LANGUAGE. INFINITE POSSIBILITIES.
 
-![Python](https://img.shields.io/badge/Python-0b2239?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-0B2239?style=for-the-badge&logo=python&logoColor=FFD43B)
 
-### 🍈 AI / Vision
+### 🍈 AI / COMPUTER VISION
 
-![PyTorch](https://img.shields.io/badge/PyTorch-0b2239?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![OpenCV](https://img.shields.io/badge/OpenCV-0b2239?style=flat-square&logo=opencv&logoColor=5c9bd5)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0b2239?style=flat-square&logo=huggingface&logoColor=ffcc4d)
+![PyTorch](https://img.shields.io/badge/PyTorch-0B2239?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0B2239?style=flat-square&logo=opencv&logoColor=5C9BD5)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0B2239?style=flat-square&logo=huggingface&logoColor=FFD21E)
 
-### ⚙️ Backend / Infrastructure
+### ⚙️ SHIP ENGINE — BACKEND / INFRASTRUCTURE
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0b2239?style=flat-square&logo=fastapi&logoColor=00d4aa)
-![Docker](https://img.shields.io/badge/Docker-0b2239?style=flat-square&logo=docker&logoColor=2496ed)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0b2239?style=flat-square&logo=kubernetes&logoColor=326ce5)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b2239?style=flat-square&logo=postgresql&logoColor=4169e1)
-![Redis](https://img.shields.io/badge/Redis-0b2239?style=flat-square&logo=redis&logoColor=dc382d)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B2239?style=flat-square&logo=fastapi&logoColor=00D4AA)
+![Docker](https://img.shields.io/badge/Docker-0B2239?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0B2239?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2239?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0B2239?style=flat-square&logo=redis&logoColor=DC382D)
 
 ---
 
@@ -109,48 +115,56 @@ My goal is simple: **turn ambitious ideas into systems that actually work.**
 <tr>
 <td width="50%" valign="top">
 
-### 👁️ Computer Vision Pipeline
+### 👁️ 01 — VISION ISLAND
 
-**Mission:** build practical vision systems capable of moving from model experimentation to deployable inference.
+**Pest Classification & Computer Vision**
 
-`Python` `OpenCV` `YOLO` `Docker`
+Built an end-to-end image classification system with multiple deep-learning architectures, augmentation, evaluation and a Streamlit interface.
 
-<a href="https://github.com/Premaramkarthik/Pest-Classification-Using-Convolutional-Neural-Network">⚔️ View Mission</a>
+`Python` `PyTorch` `YOLO` `OpenCV`
+
+<a href="https://github.com/Premaramkarthik/Pest-Classification-Using-Convolutional-Neural-Network">⚔️ BOARD THE MISSION</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Hybrid Recommendation System
+### 🧠 02 — RECOMMENDATION SEA
 
-**Mission:** combine collaborative filtering, product metadata and sentiment signals into a stronger recommendation engine.
+**Hybrid E-commerce Recommendation System**
+
+Combined collaborative filtering, product metadata and multilingual sentiment signals into a hybrid recommendation pipeline.
 
 `Python` `LightFM` `NLP` `ML`
 
-<a href="https://github.com/Premaramkarthik/Hybrid-Recommendation-System-for-E-commerce-Olist-">⚔️ View Mission</a>
+<a href="https://github.com/Premaramkarthik/Hybrid-Recommendation-System-for-E-commerce-Olist-">⚔️ BOARD THE MISSION</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Hate Speech Detection
+### 🗣️ 03 — TEXT WATERS
 
-**Mission:** build a text classification pipeline using TF-IDF, n-grams and tuned machine-learning models.
+**Hate Speech Detection**
 
-`Python` `NLP` `NLTK` `Scikit-learn`
+Built a tuned NLP classification pipeline using TF-IDF, n-grams, NLTK and machine-learning models.
 
-<a href="https://github.com/Premaramkarthik/Hate-Speech-Detection">⚔️ View Mission</a>
+`Python` `NLTK` `Scikit-learn` `NLP`
+
+<a href="https://github.com/Premaramkarthik/Hate-Speech-Detection">⚔️ BOARD THE MISSION</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌾 Intelligent Agriculture
+### 🌾 04 — AGRICULTURE ISLAND
 
-**Mission:** use environmental signals and machine learning to recommend suitable crops.
+**Intelligent Crop Recommendation**
+
+Used environmental conditions and machine-learning models to recommend suitable crops.
 
 `Python` `ML` `Data Analysis`
 
-<a href="https://github.com/Premaramkarthik/crop-recommendation">⚔️ View Mission</a>
+<a href="https://github.com/Premaramkarthik/crop-recommendation">⚔️ BOARD THE MISSION</a>
 
 </td>
 </tr>
@@ -158,13 +172,27 @@ My goal is simple: **turn ambitious ideas into systems that actually work.**
 
 ---
 
+## ⚔️ THE CREW
+
+<div align="center">
+
+<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="150" alt="Roronoa Zoro" />
+
+**BUILD WITH THE DETERMINATION OF ZORO.**
+
+> *No matter how difficult the route becomes, keep moving toward the destination.*
+
+</div>
+
+---
+
 ## 🌊 CURRENT VOYAGE
 
 ```yaml
-sea: Grand Line
-crew_role: AI Engineer / Builder
+ship: Grand Line
+role: AI Engineer / Builder
 
-currently_exploring:
+current_missions:
   - AI agents
   - RAG systems
   - computer vision
@@ -173,7 +201,7 @@ currently_exploring:
   - self-hosted infrastructure
   - robotics
 
-build_loop:
+build_cycle:
   - dream
   - design
   - build
@@ -188,36 +216,36 @@ build_loop:
 
 ## 🧭 NEXT ISLANDS
 
-- [x] Build AI/ML systems
-- [x] Explore computer vision
-- [x] Build production APIs
-- [x] Learn infrastructure
-- [ ] Ship bigger AI products
-- [ ] Contribute more to open source
-- [ ] Explore advanced robotics
-- [ ] Build something worth remembering
+| Status | Island | Objective |
+|:---:|---|---|
+| 🟢 | **AI Agents** | Build more capable autonomous workflows |
+| 🟢 | **Computer Vision** | Push real-time inference further |
+| 🟢 | **Infrastructure** | Build reliable self-hosted systems |
+| 🟡 | **Open Source** | Contribute more consistently |
+| 🟡 | **Robotics** | Explore embodied intelligence |
+| 🔴 | **The Final Island** | Ship something worth remembering |
 
 ---
 
-## ☀️ THE SEA IS CALLING
+## 🏴‍☠️ SET SAIL WITH ME
 
 <div align="center">
 
-<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Going_Merry_in_Tokyo_Bay%3B_July_2004.jpg" width="82%" alt="Going Merry" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20200429191518" width="140" alt="Monkey D. Luffy" />
 
-### **“The journey is the treasure.”**
+### **BUILD. EXPLORE. LEARN. REPEAT.**
 
-If you're building something ambitious, let's sail together.
+If you're building something ambitious, let's collaborate.
 
-<a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️_PORTFOLIO-d8a657?style=for-the-badge&labelColor=07111f" /></a>
-<a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓_GITHUB-00d4aa?style=for-the-badge&labelColor=07111f" /></a>
+<a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️%20ENTER%20MY%20PORTFOLIO-D9A441?style=for-the-badge&labelColor=07111F" /></a>
+<a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓%20FOLLOW%20THE%20VOYAGE-00C2A8?style=for-the-badge&labelColor=07111F" /></a>
 
-<br/>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,40:003b5c,75:007f86,100:d8a657&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=120&section=footer" width="100%"/>
 
 </div>
 
 ---
 
-<sub>One Piece references and imagery are used as a fan-inspired visual theme. Luffy cosplay photo: Doug Kline / PopCultureGeek, CC BY 2.0. Straw Hat flag imagery: Wikimedia Commons, CC BY-SA 3.0.</sub>
+<sub>One Piece is a fan-inspired visual theme. Character artwork is sourced from the One Piece Wiki/Fandom and remains the property of its respective copyright holders. The profile uses remote image embeds rather than claiming ownership of the artwork.</sub>
