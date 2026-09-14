@@ -180,73 +180,94 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="220" alt="Roronoa Zoro" />
+<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
+
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=20&duration=2800&pause=900&color=D9A441&center=true&vCenter=true&width=620&lines=Focus+the+goal.;Sharpen+the+skill.;Face+the+hard+days.;Keep+moving+forward." alt="Animated Zoro principles" />
+
+</div>
+
+> ### ⚔️ **ZORO'S RULE**
+> **Pick a direction. Commit to the craft. Let consistency do the cutting.**
+
+**Focus · Discipline · Resolve**
+
+Build with the mindset of a swordsman: **clear direction, daily practice, and no turning back when the path gets hard.**
+
+---
+
+## 🌊 ON THE GRAND LINE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=720&lines=BUILDING+AI+SYSTEMS;EXPLORING+COMPUTER+VISION;ENGINEERING+RELIABLE+BACKENDS;AUTOMATING+THE+BORING+WORK;LEARNING+SOMETHING+NEW+EVERY+DAY" alt="Animated current missions" />
 
 </div>
 
 <table>
 <tr>
-<td width="72%" valign="middle">
+<td width="33%" align="center">
 
-### ⚔️ ZORO'S RULE
+### 🧠 NOW
+**AI & Intelligent Systems**
 
-> **Choose your destination. Sharpen your skill. Keep moving forward.**
-
-**Focus · Discipline · Resolve**
-
-Build with Zoro's mindset: **one clear goal, relentless practice, and the will to keep going.**
+Agents · RAG · LLM workflows
 
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="33%" align="center">
 
-<img src="https://one-piece.com/o/assets/images/anime/character/data/zoro/img.jpg" width="150" alt="Roronoa Zoro" />
+### ⚙️ BUILDING
+**Systems That Scale**
+
+APIs · Inference · Infrastructure
+
+</td>
+<td width="33%" align="center">
+
+### 🔭 EXPLORING
+**Beyond the Notebook**
+
+Vision · Robotics · Open Source
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
 
-## 🌊 CURRENT VOYAGE
+`DREAM` → `DESIGN` → `BUILD` → `BREAK` → `LEARN` → `REBUILD` → `SHIP`
 
-```yaml
-ship: Grand Line
-role: AI Engineer / Builder
-
-current_missions:
-  - AI agents
-  - RAG systems
-  - computer vision
-  - real-time inference
-  - scalable backend systems
-  - self-hosted infrastructure
-  - robotics
-
-build_cycle:
-  - dream
-  - design
-  - build
-  - test
-  - break
-  - learn
-  - rebuild
-  - ship
-```
+</div>
 
 ---
 
-## 🧭 NEXT ISLANDS
+## 🧭 THE NEXT ADVENTURES
 
-| Status | Island | Objective |
-|:---:|---|---|
-| 🟢 | **AI Agents** | Build more capable autonomous workflows |
-| 🟢 | **Computer Vision** | Push real-time inference further |
-| 🟢 | **Infrastructure** | Build reliable self-hosted systems |
-| 🟡 | **Open Source** | Contribute more consistently |
-| 🟡 | **Robotics** | Explore embodied intelligence |
-| 🔴 | **The Final Island** | Ship something worth remembering |
+<div align="center">
+
+### **No fixed map. Just the next island worth reaching.**
+
+</div>
+
+| 🌴 DESTINATION | 🧭 WHAT I'M CHASING | ⚡ STATUS |
+|:---|:---|:---:|
+| **AI Agents** | More capable autonomous workflows | `ACTIVE` |
+| **Computer Vision** | Faster, smarter real-time inference | `ACTIVE` |
+| **Self-Hosted Systems** | Reliable infrastructure I fully control | `BUILDING` |
+| **Open Source** | Build, contribute, and give back | `EXPLORING` |
+| **Robotics** | Bring intelligence into the physical world | `EXPLORING` |
+| **The Next Big Idea** | Turn an ambitious idea into something real | `???` |
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=90&section=header" width="100%"/>
+
+**THE ROUTE CHANGES. THE DREAM DOESN'T.**
+
+</div>
 
 ---
 
