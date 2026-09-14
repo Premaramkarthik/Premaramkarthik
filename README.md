@@ -9,7 +9,7 @@
 > *“The world isn't perfect. But it's there for us, doing the best it can.”*
 
 [![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Premaramkarthik)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Premaramkarthik/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://premaramkarthik.github.io/portfolio/)
 
 </div>
 
@@ -50,9 +50,6 @@ I build production-oriented software around **AI/ML, computer vision, NLP, autom
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-0f172a?style=flat-square&logo=cplusplus)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript)
 
 ### AI / Computer Vision
 
