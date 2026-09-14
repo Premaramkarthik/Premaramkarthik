@@ -264,30 +264,79 @@ Computer vision · robotics · open source
 
 ---
 
-## 🧭 NEXT PORTS OF CALL
+## 🏴‍☠️ THE NEXT ADVENTURE
 
 <div align="center">
 
-### **THE MAP ISN'T FINISHED YET.**
+### **THE NEXT ISLAND IS STILL UNKNOWN.**
 
-*Every project opens another route.*
+*But the direction is clear.*
 
 </div>
 
-| 🏴‍☠️ DESTINATION | 🎯 MISSION | 🗺️ STATE |
-|:---|:---|:---:|
-| **AI Agents** | Turn complex tasks into useful autonomous workflows | ⚡ ACTIVE |
-| **Computer Vision** | Push real-time perception and inference further | ⚡ ACTIVE |
-| **Self-Hosted Systems** | Build infrastructure I can operate end-to-end | 🔧 BUILDING |
-| **Open Source** | Create useful things and contribute upstream | 🧭 EXPLORING |
-| **Robotics** | Connect intelligence with the physical world | 🧭 EXPLORING |
-| **Next Big Build** | Take one ambitious idea from zero to shipped | ❔ UNKNOWN |
+<table>
+<tr>
+
+<td width="33%" align="center" valign="top">
+
+### 🧠 BUILD
+
+**AI AGENTS**
+
+Voice AI · RAG · LLMs  
+Tool calling · Automation
+
+> Build agents that actually do the work.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### ⚔️ MASTER
+
+**REAL-TIME SYSTEMS**
+
+Pipecat · WebRTC · Backend  
+Async processing · Infrastructure
+
+> Make intelligent systems fast and reliable.
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🌊 EXPLORE
+
+**BEYOND THE SCREEN**
+
+Computer Vision · Robotics  
+Open Source · Self-hosting
+
+> Take software into the real world.
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
+### 🗺️ **THE NEXT QUEST**
+
+`LEARN` → `BUILD` → `BREAK` → `REBUILD` → `SHIP`
+
+<br>
+
+**No fixed destination.  
+Just bigger problems worth solving.**
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111f,35:003b5c,70:007f86,100:d9a441&height=90&section=header" width="100%"/>
 
-**NO PERFECT ROUTE. JUST THE NEXT STEP.**
+<div align="center">
+
+**THE GRAND LINE DOESN'T END.**
 
 </div>
 
