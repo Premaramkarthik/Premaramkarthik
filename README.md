@@ -269,9 +269,9 @@ Computer vision · robotics · open source
 
 <div align="center">
 
-### **THE NEXT ISLAND IS STILL UNKNOWN.**
+### **THE SEA IS BIGGER THAN THE SHIP.**
 
-*But the direction is clear.*
+*There is always another system to build, another problem to solve, and another island to explore.*
 
 </div>
 
@@ -280,40 +280,37 @@ Computer vision · robotics · open source
 
 <td width="33%" align="center" valign="top">
 
-### 🧠 BUILD
+### 🧠 **NEW WORLD**
 
 **AI AGENTS**
 
-Voice AI · RAG · LLMs  
-Tool calling · Automation
+Building intelligent agents that can reason, use tools, interact with knowledge, and complete real-world tasks.
 
-> Build agents that actually do the work.
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### ⚔️ MASTER
-
-**REAL-TIME SYSTEMS**
-
-Pipecat · WebRTC · Backend  
-Async processing · Infrastructure
-
-> Make intelligent systems fast and reliable.
+`LLMs` · `RAG` · `Voice AI` · `Automation`
 
 </td>
 
 <td width="33%" align="center" valign="top">
 
-### 🌊 EXPLORE
+### ⚔️ **GRAND LINE**
 
-**BEYOND THE SCREEN**
+**SYSTEMS ENGINEERING**
 
-Computer Vision · Robotics  
-Open Source · Self-hosting
+Going deeper into real-time communication, scalable backends, distributed systems and infrastructure.
 
-> Take software into the real world.
+`Pipecat` · `WebRTC` · `FastAPI` · `Redis` · `Docker`
+
+</td>
+
+<td width="33%" align="center" valign="top">
+
+### 🌊 **UNCHARTED SEA**
+
+**BUILDING IN THE REAL WORLD**
+
+Exploring computer vision, robotics, open source and self-hosted technology.
+
+`Computer Vision` · `Robotics` · `Open Source`
 
 </td>
 
@@ -322,14 +319,11 @@ Open Source · Self-hosting
 
 <div align="center">
 
-### 🗺️ **THE NEXT QUEST**
+### ☠️ **THE GOAL**
 
-`LEARN` → `BUILD` → `BREAK` → `REBUILD` → `SHIP`
+**Don't just build software. Build things worth remembering.**
 
-<br>
-
-**No fixed destination.  
-Just bigger problems worth solving.**
+`IMAGINE` → `BUILD` → `TEST` → `FAIL` → `LEARN` → `SHIP`
 
 </div>
 
