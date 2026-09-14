@@ -84,15 +84,60 @@ Working across the **AI, real-time voice and backend layers** of production-orie
 
 ## ☠️ THE STRAW HAT CODE
 
+<div align="center">
+
+### **THE PRINCIPLES BEHIND THE BUILD**
+
 <table>
 <tr>
-<td align="center" width="20%"><h3>🏴‍☠️</h3><b>DREAM</b><br><sub>Think bigger.</sub></td>
-<td align="center" width="20%"><h3>⚔️</h3><b>DISCIPLINE</b><br><sub>Show up daily.</sub></td>
-<td align="center" width="20%"><h3>🧭</h3><b>EXPLORE</b><br><sub>Stay curious.</sub></td>
-<td align="center" width="20%"><h3>⚙️</h3><b>BUILD</b><br><sub>Make it real.</sub></td>
-<td align="center" width="20%"><h3>🌊</h3><b>SAIL</b><br><sub>Keep moving.</sub></td>
+<td width="20%" align="center" valign="top">
+
+### 🏴‍☠️
+**DREAM**
+
+Think beyond the obvious.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### ⚔️
+**DISCIPLINE**
+
+Keep sharpening the craft.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 🧭
+**EXPLORE**
+
+Follow curiosity into new waters.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### ⚙️
+**BUILD**
+
+Turn ideas into working systems.
+
+</td>
+<td width="20%" align="center" valign="top">
+
+### 🌊
+**SAIL**
+
+Keep moving, keep learning.
+
+</td>
 </tr>
 </table>
+
+<br>
+
+**DREAM BIG · BUILD DAILY · EXPLORE DEEPLY · KEEP MOVING**
+
+</div>
 
 ---
 
@@ -199,8 +244,7 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://glad-you-came.fandom.com/wiki/Roronoa_Zoro" width="1" height="1" alt="" />
-<img src="https://static.wikia.nocookie.net/glad-you-came/images/a/a2/Zoro.png/revision/latest/scale-to-width-down/1200?cb=20230710081928" width="210" alt="Roronoa Zoro" />
+<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
 
