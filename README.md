@@ -180,11 +180,9 @@ Used environmental conditions and machine-learning models to recommend suitable 
 
 <div align="center">
 
-<img src="https://static.wikia.nocookie.net/onepiece/images/5/52/Roronoa_Zoro_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20241029161719" width="210" alt="Roronoa Zoro" />
+<img src="https://wallpapers.com/images/hd/pfp-pictures-t4psr7nnowpb3760.jpg" width="210" alt="Roronoa Zoro" />
 
 ### **THE SWORDSMAN'S WAY**
-
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=20&duration=2800&pause=900&color=D9A441&center=true&vCenter=true&width=620&lines=Focus+the+goal.;Sharpen+the+skill.;Face+the+hard+days.;Keep+moving+forward." alt="Animated Zoro principles" />
 
 </div>
 
@@ -202,8 +200,6 @@ Build with the mindset of a swordsman: **clear direction, daily practice, and no
 <div align="center">
 
 ### **THE VOYAGE IS ALWAYS MOVING.**
-
-<img src="https://readme-typing-svg.demolab.com?font=Trebuchet+MS&weight=700&size=21&duration=2800&pause=850&color=00C2A8&center=true&vCenter=true&width=760&lines=TRAINING+AI+AGENTS;BUILDING+VISION+SYSTEMS;ENGINEERING+BACKEND+SYSTEMS;RUNNING+SELF-HOSTED+INFRA;EXPLORING+ROBOTICS;SHIPPING+REAL+SOFTWARE" alt="Animated engineering voyage" />
 
 </div>
 
