@@ -8,7 +8,7 @@
 
 ### **AI ENGINEER · BUILDER · EXPLORER**
 
-> ### 🌊 **Dream bigger. Build boldly. Keep sailing.**
+> ### 🌊 **Chase the horizon. Build what you believe. Never stop moving forward.**
 
 <a href="https://premaramkarthik.github.io/portfolio/"><img src="https://img.shields.io/badge/🏴‍☠️%20PORTFOLIO-D9A441?style=for-the-badge&labelColor=07111F" /></a>
 <a href="https://github.com/Premaramkarthik"><img src="https://img.shields.io/badge/⚓%20GITHUB-00C2A8?style=for-the-badge&labelColor=07111F" /></a>
@@ -179,8 +179,6 @@ Used environmental conditions and machine-learning models to recommend suitable 
 ## ⚔️ THE CREW
 
 <div align="center">
-
-<img src="https://images.ciatr.jp/2024/06/w_1000/P17SUgJLgkPO9SNMSfLdZ5umFV1RRXMBELqJW0rI.jpg" width="100%" alt="Straw Hat Pirates on Egghead Island" />
 
 ### **DIFFERENT DREAMS. SAME DIRECTION.**
 
